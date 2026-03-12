@@ -46,5 +46,5 @@ gcc program_name.c -o program
 # Author
 
 **Vidhyaa Lakshmi S**
-Computer Science Student
+Computer Science Engineering Student
 

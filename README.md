@@ -1,6 +1,4 @@
 # C-Basic-Programs
-# Basic C Programs
-
 This repository contains simple C programs for beginners.
 
 Programs included:
